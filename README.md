@@ -1,7 +1,7 @@
 # Hello there; welcome 👋🏾
 
 
-I'm a Software and Mechanical Engineer who currently studying at AltachoolArica
+I'm a Software and Mechanical Engineer who currently studying at AltschoolArica
 
 **Here's a quick summary about me**:
 
